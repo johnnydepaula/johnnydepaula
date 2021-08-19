@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on:
 ## <img src="https://img.icons8.com/color/96/000000/python--v1.png" height="80" width="80" /> <img src="https://img.icons8.com/color/96/000000/postgreesql.png" height="80" width="80" /> <img src="https://img.icons8.com/dusk/128/000000/anaconda.png" height="80" width="80" />
 
-#### 📫 Hit me up on:
+## 📫 Hit me up on:
 <p align="left">
   <a href="https://twitter.com/joohnnydias" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="johnnydepaula" height="40" width="40" />
   </a>
