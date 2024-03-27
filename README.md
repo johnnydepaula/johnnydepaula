@@ -3,20 +3,18 @@
 I'm an **Analytical Engineer** passionate about **data**, **insights**, and **problem-solving**. Here's a glimpse into my world:
 
 ### 📊 Current Work
-- 🔥 Optimizing data pipelines for real-time analytics.
-- 🌱 Learning advanced machine learning techniques.
+- 🔥 Optimizing data pipelines for analytics projects.
+- 🌱 Learning advanced data engineering techniques.
 
 ### 🤝 Collaboration and Help
-- I'm open to collaboration on data visualization libraries.
-- Seeking help with optimizing SQL queries.
+- I'm open to collaboration on data extraction and visualization libraries.
+- Seeking help with optimizing workflows orchestrations.
 
 ### 📫 How to Reach Me
-- Connect with me on LinkedIn.
-- Email: your.email@example.com
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/johnny-dias/).
 
 ### ⚡ Fun Facts
 - I've analyzed data from over 100 different coffee blends! ☕
-- I'm also a competitive chess player. ♟️
 
 Let's connect and explore the fascinating world of data together! 🚀
 
