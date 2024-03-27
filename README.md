@@ -1,10 +1,25 @@
-## 👋 Hi, I’m @johnnydepaula <img src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png" height="15" width="15"/>
-- 👀 I’m interested in <mark style="background-color: lightblue">cars</mark>, sports, engineering and data
-- 🌱 I’m currently learning Data Science and Machine Learning, focused on it's use uppon Natural Processing Languages
-- 💞️ I’m looking to collaborate on:
-## <img src="https://img.icons8.com/color/96/000000/python--v1.png" height="80" width="80" /> <img src="https://img.icons8.com/color/96/000000/postgreesql.png" height="80" width="80" /> <img src="https://img.icons8.com/dusk/128/000000/anaconda.png" height="80" width="80" />
+# Hi there! 👋 I’m @johnnydepaula <img src="https://img.icons8.com/color/48/000000/instagram-verification-badge.png" height="15" width="15"/>
 
-## 📫 Hit me up on: <p align="left"><a href="https://twitter.com/joohnnydias" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="johnnydepaula" height="40" width="40" /></a><a href="https://www.linkedin.com/in/johnny-de-paula/" target="_blank"><img align="center" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="johnnydepaula" height="40" width="40" /></a><a href="http://www.instagram.com/joohnnydias/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/96/000000/instagram-new.png" alt="johnnydepaula" height="40" width="40" /></a>
+I'm an **Analytical Engineer** passionate about **data**, **insights**, and **problem-solving**. Here's a glimpse into my world:
+
+### 📊 Current Work
+- 🔥 Optimizing data pipelines for real-time analytics.
+- 🌱 Learning advanced machine learning techniques.
+
+### 🤝 Collaboration and Help
+- I'm open to collaboration on data visualization libraries.
+- Seeking help with optimizing SQL queries.
+
+### 📫 How to Reach Me
+- Connect with me on LinkedIn.
+- Email: your.email@example.com
+
+### ⚡ Fun Facts
+- I've analyzed data from over 100 different coffee blends! ☕
+- I'm also a competitive chess player. ♟️
+
+Let's connect and explore the fascinating world of data together! 🚀
+
 <!---
 johnnydepaula/johnnydepaula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
